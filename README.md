@@ -9,3 +9,6 @@ Malayalam : https://youtu.be/2HauttTuTdA
 ## Usage
 
 ![OAuth2 Flow Diagram](https://github.com/akjasim/cb-dj-sso/blob/main/oauth2-flow.png?raw=true)
+
+## Document reference:
+https://docs.allauth.org/en/latest/installation/quickstart.html
